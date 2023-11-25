@@ -31,4 +31,6 @@ This Python script is designed to load image batches from the CIFAR-10 dataset, 
 - Output: The images will be saved in a directory structure cifar_images/cifar-10-batches-py/... Each image will be named in the format image_{index}_label_{label}.png.
 
 **The output of MPI running**
-https://github.com/sicongT/CourseProject_Similarity/blob/main/MPI.jpg
+<figure>
+  <img src="./MPI.jpg" style="width:100%">
+  </figure>
